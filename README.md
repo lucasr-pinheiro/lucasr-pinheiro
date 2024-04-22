@@ -7,7 +7,7 @@
 
 - 🌱 Estou estudando **Javascript Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://lucasr-pinheiro.github.io/](https://lucasr-pinheiro.github.io/)
+- 👨‍💻 All of my projects are available at [[https://lucasr-pinheiro.github.io/](https://lucasr-pinheiro.github.io/)](https://lucasr-pinheiro.github.io/)
 
 - 💬 Me pergunte sobre **NodeJs**
 
