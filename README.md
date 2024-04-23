@@ -1,6 +1,18 @@
 <h1 align="center">Olá 👋, Eu sou Lucas Roberto Pinheiro</h1>
 <h3 align="center">Desenvolvedor full stack</h3>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?lucasr-pinheiro=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?lucasr-pinheiro=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?lucasr-pinheiro=anuraghazra&show_icons=true" />
+</picture>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasr-pinheiro&label=Profile%20views&color=0e75b6&style=flat" alt="lucasr-pinheiro" /> </p>
 
 - 🔭 Atualmente estou trabalhando **NodeJs SmartMachine**
